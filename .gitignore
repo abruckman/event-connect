@@ -21,3 +21,6 @@ node_modules
 
 # Generated js bundles
 /public/webpack/*
+
+#keys and other env files
+.env
