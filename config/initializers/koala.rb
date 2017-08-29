@@ -1,6 +1,5 @@
 #configure facebook API
 
-require 'dotenv/load'
 
 Koala.configure do |config|
   config.access_token = ENV["FB_MY_TOKEN"]
